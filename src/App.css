@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap");
+
+body {
+  background-image: linear-gradient(rgb(93, 93, 219), rgb(0, 80, 24));
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Encode Sans SC", sans-serif;
+}
+
+.all p,
+h2 {
+  text-align: center;
+}
+
+.inputDate {
+  text-align: center;
+}
+
+.inputDate h3 {
+  font-size: 30px;
+}
+
+.icon img {
+  height: 100px;
+}
+
+.details p {
+  color: white;
+  margin-left: 10px;
+  text-shadow: rgb(11, 153, 153) 5px 4px 8px;
+  font-size: 20px;
+}
+
+.title h2 {
+  color: silver;
+  text-decoration: underline;
+}
